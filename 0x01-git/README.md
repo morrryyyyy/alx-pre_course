@@ -1,0 +1,1 @@
+This directory contains all my solutions to the ALX git tasks
